@@ -45,6 +45,14 @@
             <version>1.5.9.RELEASE</version>
         </dependency>
 
+        <!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-actuator -->
+        <!--Bra for å sjekke status på server-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-actuator</artifactId>
+            <version>1.5.9.RELEASE</version>
+        </dependency>
+
 
 
     </dependencies>

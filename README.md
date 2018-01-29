@@ -21,6 +21,10 @@ PUT-, POST- and DELETE-REQUESTS.
 ##### Hello: #####
 This is just a package with one simple test. You can preform a simple GET-REQUEST.
 
+Links:
 
+### Java Brains Home page ###
+https://javabrains.thinkific.com/courses/springboot-quickstart
 
-    
+##### Youtube page: #####
+https://www.youtube.com/watch?v=msXL2oDexqw&list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x
